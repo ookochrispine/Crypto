@@ -1,18 +1,64 @@
 {
-  "generatedAt": "2025-11-21T14:09:44.091Z",
+  "generatedAt": "2025-11-21T14:54:44.529Z",
   "bitcoin": {
     "coinGeckoPrice": {
-      "usd": 83846
+      "usd": 84894
     }
   },
   "pi": {
     "cmc": {
       "status": {
-        "timestamp": "2025-11-21T14:09:42.795Z",
-        "error_code": 1001,
-        "error_message": "This API Key is invalid.",
-        "elapsed": 0,
-        "credit_count": 0
+        "timestamp": "2025-11-21T14:54:44.199Z",
+        "error_code": 0,
+        "error_message": null,
+        "elapsed": 17,
+        "credit_count": 1,
+        "notice": null
+      },
+      "data": {
+        "PI": {
+          "id": 35697,
+          "name": "Pi",
+          "symbol": "PI",
+          "slug": "pi",
+          "num_market_pairs": 66,
+          "date_added": "2025-02-11T07:16:10.000Z",
+          "tags": [
+            "layer-1",
+            "mobile-mining"
+          ],
+          "max_supply": 100000000000,
+          "circulating_supply": 8314253761.685721,
+          "total_supply": 100000000000,
+          "is_active": 1,
+          "infinite_supply": false,
+          "minted_market_cap": 23389799233.42,
+          "platform": null,
+          "cmc_rank": 43,
+          "is_fiat": 0,
+          "self_reported_circulating_supply": 8314253761.69,
+          "self_reported_market_cap": 1944687262.616566,
+          "tvl_ratio": null,
+          "last_updated": "2025-11-21T14:52:00.000Z",
+          "quote": {
+            "USD": {
+              "price": 0.23389799233422465,
+              "volume_24h": 64447745.39588654,
+              "volume_change_24h": -13.1864,
+              "percent_change_1h": 0.48584825,
+              "percent_change_24h": -5.8861027,
+              "percent_change_7d": 8.19374755,
+              "percent_change_30d": 15.28169756,
+              "percent_change_60d": -19.93463742,
+              "percent_change_90d": -34.70263095,
+              "market_cap": 1944687262.6155653,
+              "market_cap_dominance": 0.0671,
+              "fully_diluted_market_cap": 23389799233.42,
+              "tvl": null,
+              "last_updated": "2025-11-21T14:52:00.000Z"
+            }
+          }
+        }
       }
     }
   },
