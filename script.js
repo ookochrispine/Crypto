@@ -1,6 +1,6 @@
 async function load() {
   try {
-    const res = await fetch('/data.json?t=' + Date.now());
+    const res = await fetch('./data.json?t=' + Date.now());
     const d = await res.json();
     document.getElementById('btc').innerText = d?.bitcoin?.coinGeckoPrice?.usd ? '$' + d.bitcoin.coinGeckoPrice.usd : 'N/A';
     let piPrice = 'N/A';
