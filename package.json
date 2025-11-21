@@ -1,0 +1,13 @@
+{
+  "name": "fetch-data-action",
+  "version": "1.0.0",
+  "description": "Fetch BTC, PI and news; produce data.json",
+  "main": "scripts/fetch_and_update.js",
+  "scripts": {
+    "fetch": "node scripts/fetch_and_update.js"
+  },
+  "dependencies": {
+    "sentiment": "^5.0.2",
+    "node-fetch": "^2.6.9"
+  }
+}

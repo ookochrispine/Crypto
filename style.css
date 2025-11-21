@@ -1,0 +1,9 @@
+:root{--bg:#f5f7fb;--card:#fff;--muted:#6b7280;}
+body{font-family:system-ui;background:var(--bg);margin:0;color:#111;}
+.container{max-width:900px;margin:28px auto;padding:0 16px;}
+.card{background:var(--card);padding:16px;border-radius:10px;box-shadow:0 4px 14px rgba(30,41,59,0.06);margin-bottom:14px;}
+.news-item{margin-bottom:12px;padding-bottom:6px;border-bottom:1px dashed #eee;}
+.badge{padding:4px 8px;border-radius:999px;font-size:12px;margin-left:8px}
+.pos{background:#dcfce7;color:#065f46}
+.neg{background:#fee2e2;color:#991b1b}
+.neu{background:#f3f4f6;color:#374151}
