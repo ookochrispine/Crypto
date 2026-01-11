@@ -1,67 +1,61 @@
 {
-  "generatedAt": "2026-01-11T10:54:31.212Z",
+  "generatedAt": "2026-01-11T11:14:39.802Z",
   "bitcoin": {
     "coinGeckoPrice": {
-      "usd": 90607
+      "usd": 90594
     }
   },
   "pi": {
     "cmc": {
       "status": {
-        "timestamp": "2026-01-11T10:54:30.924Z",
+        "timestamp": "2026-01-11T11:14:39.617Z",
         "error_code": 0,
         "error_message": null,
-        "elapsed": 55,
+        "elapsed": 47,
         "credit_count": 1,
         "notice": null
       },
       "data": {
         "PI": {
-          "id": 36370,
-          "name": "PI TRUMP (pitrumphub.com)",
+          "id": 35697,
+          "name": "Pi",
           "symbol": "PI",
-          "slug": "pi-trump",
-          "num_market_pairs": 1,
-          "date_added": "2025-04-29T08:35:48.000Z",
+          "slug": "pi",
+          "num_market_pairs": 69,
+          "date_added": "2025-02-11T07:16:10.000Z",
           "tags": [
-            "memes",
-            "bnb-chain-ecosystem"
+            "layer-1",
+            "mobile-mining"
           ],
-          "max_supply": 1000000000000,
-          "circulating_supply": 0,
-          "total_supply": 1000000000000,
-          "platform": {
-            "id": 1839,
-            "name": "BNB Smart Chain (BEP20)",
-            "symbol": "BNB",
-            "slug": "bnb",
-            "token_address": "0x01A5768D6e908c4DD50255613273708195390eC4"
-          },
+          "max_supply": 100000000000,
+          "circulating_supply": 8383288945.762151,
+          "total_supply": 100000000000,
           "is_active": 1,
           "infinite_supply": false,
-          "minted_market_cap": 301299.55,
-          "cmc_rank": 3920,
+          "minted_market_cap": 20885582027.96,
+          "platform": null,
+          "cmc_rank": 47,
           "is_fiat": 0,
-          "self_reported_circulating_supply": 1000000000000,
-          "self_reported_market_cap": 301299.55066258356,
+          "self_reported_circulating_supply": 8383288945.76,
+          "self_reported_market_cap": 1750898689.4080074,
           "tvl_ratio": null,
-          "last_updated": "2026-01-11T10:52:00.000Z",
+          "last_updated": "2026-01-11T11:14:00.000Z",
           "quote": {
             "USD": {
-              "price": 3.0129955066258357e-7,
-              "volume_24h": 429857.56464332,
-              "volume_change_24h": 45.7827,
-              "percent_change_1h": -4.17679745,
-              "percent_change_24h": -92.72019387,
-              "percent_change_7d": 185.11514684,
-              "percent_change_30d": -2.05901673,
-              "percent_change_60d": -92.09022517,
-              "percent_change_90d": -92.77873885,
-              "market_cap": 0,
-              "market_cap_dominance": 0,
-              "fully_diluted_market_cap": 301299.55,
+              "price": 0.20885582027964764,
+              "volume_24h": 4525819.67430451,
+              "volume_change_24h": -15.3095,
+              "percent_change_1h": -0.01913198,
+              "percent_change_24h": 0.01610598,
+              "percent_change_7d": -0.54943252,
+              "percent_change_30d": 0.00945673,
+              "percent_change_60d": -8.49706192,
+              "percent_change_90d": -2.60733547,
+              "market_cap": 1750898689.4084566,
+              "market_cap_dominance": 0.0565,
+              "fully_diluted_market_cap": 20885582027.96,
               "tvl": null,
-              "last_updated": "2026-01-11T10:52:00.000Z"
+              "last_updated": "2026-01-11T11:14:00.000Z"
             }
           }
         }
