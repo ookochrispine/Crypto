@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-01-20T11:31:18.632Z",
+  "generatedAt": "2026-01-20T11:53:59.753Z",
   "bitcoin": {
     "coinGeckoPrice": {
-      "usd": 91308
+      "usd": 91179
     }
   },
   "pi": {
     "cmc": {
       "status": {
-        "timestamp": "2026-01-20T11:31:18.346Z",
+        "timestamp": "2026-01-20T11:53:58.053Z",
         "error_code": 0,
         "error_message": null,
-        "elapsed": 41,
+        "elapsed": 2743,
         "credit_count": 1,
         "notice": null
       },
@@ -32,30 +32,30 @@
           "total_supply": 100000000000,
           "is_active": 1,
           "infinite_supply": false,
-          "minted_market_cap": 18829271832.52,
+          "minted_market_cap": 18825059780.86,
           "platform": null,
           "cmc_rank": 47,
           "is_fiat": 0,
           "self_reported_circulating_supply": 8383288945.76,
-          "self_reported_market_cap": 1578512264.1027107,
+          "self_reported_market_cap": 1578159155.6414313,
           "tvl_ratio": null,
-          "last_updated": "2026-01-20T11:29:00.000Z",
+          "last_updated": "2026-01-20T11:51:00.000Z",
           "quote": {
             "USD": {
-              "price": 0.18829271832519526,
-              "volume_24h": 16247885.3767104,
-              "volume_change_24h": -42.5457,
-              "percent_change_1h": 0.44534166,
-              "percent_change_24h": -0.62591984,
-              "percent_change_7d": -8.73188318,
-              "percent_change_30d": -9.35584089,
-              "percent_change_60d": -19.3413487,
-              "percent_change_90d": -6.86095891,
-              "market_cap": 1578512264.1031158,
-              "market_cap_dominance": 0.0512,
-              "fully_diluted_market_cap": 18829271832.52,
+              "price": 0.18825059780858608,
+              "volume_24h": 16266664.3579624,
+              "volume_change_24h": -42.7154,
+              "percent_change_1h": 0.57707184,
+              "percent_change_24h": -0.7237841,
+              "percent_change_7d": -8.80733399,
+              "percent_change_30d": -8.75879422,
+              "percent_change_60d": -18.4907307,
+              "percent_change_90d": -6.68759063,
+              "market_cap": 1578159155.6418362,
+              "market_cap_dominance": 0.0513,
+              "fully_diluted_market_cap": 18825059780.86,
               "tvl": null,
-              "last_updated": "2026-01-20T11:29:00.000Z"
+              "last_updated": "2026-01-20T11:51:00.000Z"
             }
           }
         }
