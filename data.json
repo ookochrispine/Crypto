@@ -1,66 +1,66 @@
 {
-  "generatedAt": "2026-04-21T19:51:28.483Z",
+  "generatedAt": "2026-04-21T20:48:03.127Z",
   "bitcoin": {
     "coinGeckoPrice": {
-      "usd": 75035
+      "usd": 75655
     }
   },
   "pi": {
     "cmc": {
-      "status": {
-        "timestamp": "2026-04-21T19:51:28.415Z",
-        "error_code": 0,
-        "error_message": null,
-        "elapsed": 55,
-        "credit_count": 1,
-        "notice": null
-      },
       "data": {
         "PI": {
-          "id": 35697,
-          "name": "Pi",
-          "symbol": "PI",
-          "slug": "pi",
-          "num_market_pairs": 73,
-          "date_added": "2025-02-11T07:16:10.000Z",
           "tags": [
             "layer-1",
             "mobile-mining"
           ],
-          "max_supply": 100000000000,
-          "circulating_supply": 10206734567.81003,
-          "total_supply": 100000000000,
+          "id": 35697,
+          "name": "Pi",
+          "symbol": "PI",
+          "slug": "pi",
           "is_active": 1,
           "infinite_supply": false,
-          "minted_market_cap": 16697357982.01,
-          "platform": null,
-          "cmc_rank": 42,
           "is_fiat": 0,
-          "self_reported_circulating_supply": 10202271341.24,
-          "self_reported_market_cap": 1703509768.1429918,
+          "circulating_supply": 10208371142.85013,
+          "total_supply": 100000000000,
+          "max_supply": 100000000000,
+          "date_added": "2025-02-11T07:16:10.000Z",
+          "num_market_pairs": 73,
+          "cmc_rank": 42,
+          "last_updated": "2026-04-21T20:47:00.000Z",
           "tvl_ratio": null,
-          "last_updated": "2026-04-21T19:50:00.000Z",
+          "platform": null,
+          "self_reported_circulating_supply": 10206734567.81,
+          "self_reported_market_cap": 1711556597.9374697,
+          "minted_market_cap": 16768894954.27,
           "quote": {
             "USD": {
-              "price": 0.16697357982011332,
-              "volume_24h": 23898436.64221735,
-              "cex_volume_24h": 23898436.64221735,
+              "price": 0.16768894954272417,
+              "volume_24h": 24199752.71706858,
+              "volume_change_24h": 47.3641,
+              "cex_volume_24h": 24199752.71706858,
               "dex_volume_24h": 0,
-              "volume_change_24h": 43.1342,
-              "percent_change_1h": -0.08852561,
-              "percent_change_24h": -3.53591104,
-              "percent_change_7d": 0.63359071,
-              "percent_change_30d": -11.66169479,
-              "percent_change_60d": -5.13279102,
-              "percent_change_90d": -8.91983972,
-              "market_cap": 1704255009.060938,
-              "market_cap_dominance": 0.0675,
-              "fully_diluted_market_cap": 16697357982.01,
+              "percent_change_1h": 0.48809308,
+              "percent_change_24h": -3.28678279,
+              "percent_change_7d": 1.17183161,
+              "percent_change_30d": -11.5743179,
+              "percent_change_60d": -5.23733689,
+              "percent_change_90d": -8.16147366,
+              "market_cap": 1711831033.4867969,
+              "market_cap_dominance": 0.0671,
+              "fully_diluted_market_cap": 16768894954.27,
               "tvl": null,
-              "last_updated": "2026-04-21T19:50:00.000Z"
+              "last_updated": "2026-04-21T20:47:04.000Z"
             }
           }
         }
+      },
+      "status": {
+        "timestamp": "2026-04-21T20:48:03.067Z",
+        "error_code": 0,
+        "error_message": null,
+        "elapsed": 422,
+        "credit_count": 1,
+        "notice": null
       }
     }
   },
